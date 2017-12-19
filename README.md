@@ -26,9 +26,8 @@ step 1 <br/>
   since here we have a lot of features here we will first try to select those features that will help in the classification problem<br/> 
   for this plot.py will read these feature values  and plot a histogram using matplotlib corresponding to male and female samples.<br/>
   we will use only those feature values which will give a nearly bimodal histogram<br/>
-    
-  we will use sd, Q25, IQR, sfm, mode, and meanfun that elp us separate male voices from female voices.<br/>
-  for more information kindly refer pictures folder <br/>
-   IQR is a good feature for classification<br/>
-   Skew is not a good feature for image classification as male and female have overlapped histograms<br/>
+  
+   ![meanfun](https://user-images.githubusercontent.com/12728710/34156702-5f8956a4-e4e4-11e7-97fe-2d5fc9137624.png)
+   ![skew](https://user-images.githubusercontent.com/12728710/34156732-83ae104c-e4e4-11e7-89d9-fa943b1bdfd7.png)
+
    
