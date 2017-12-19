@@ -1,6 +1,6 @@
 # classification-of-voice-samples-as-male-or-female<br/>
 we will use features given in the data.csv file to classify male and female voice samples<br/>
-##step 1 <br/>
+## step 1 <br/>
    20 independent feature variables:<br />
       meanfreq: mean frequency in kHz <br />
       sd: standard deviation of frequency<br />
