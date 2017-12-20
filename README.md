@@ -31,4 +31,5 @@ we will use features given in the data.csv file to classify male and female voic
    ## skew is not a good feature because histograms for male and female are overlapping
    ![skew](https://user-images.githubusercontent.com/12728710/34156732-83ae104c-e4e4-11e7-89d9-fa943b1bdfd7.png)
 
-   
+   ## step 2 <br />
+   we will use scikit learn to train our different models and find out the training and testing accuracy
